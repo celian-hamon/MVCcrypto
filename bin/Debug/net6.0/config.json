@@ -1,0 +1,16 @@
+{
+  "ApiToken": "your token",
+  "Host": "https://api.coingecko.com/api/v3/",
+  "Refresh": 60,
+  "Format": ".txt",
+  "Currency": "usd",
+  "Tokens": [
+    "bitcoin",
+    "ethereum",
+    "dogecoin",
+    "binancecoin",
+    "cardano",
+    "polkadot",
+    "ripple"
+  ]
+}
